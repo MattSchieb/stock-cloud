@@ -1,6 +1,5 @@
 scikit-image==0.18.3
 scikit-learn==1.0.2
-scikit-learn-intelex==2021.20210714.120553
 statsmodels==0.12.2
 virtualenv==20.15.1
 voila==0.3.5
